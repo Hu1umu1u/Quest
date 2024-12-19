@@ -1,0 +1,14 @@
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\bin\Debug\Codecool.Quest.exe.config
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\bin\Debug\Codecool.Quest.exe
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\bin\Debug\Codecool.Quest.pdb
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Quest.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Quest.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Quest.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Quest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Quest.exe
+C:\Users\Administrator\Source\Repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Quest.pdb
+C:\Users\Administrator\source\repos\RPG-Quest-Game\Codecool.Quest\bin\Debug\MainForm.resx
+C:\Users\Administrator\source\repos\RPG-Quest-Game\Codecool.Quest\bin\Debug\MainForm.cs
+C:\Users\Administrator\source\repos\RPG-Quest-Game\Codecool.Quest\bin\Debug\MainForm.Designer.cs
+C:\Users\Administrator\source\repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Квест.MainForm.resources
+C:\Users\Administrator\source\repos\RPG-Quest-Game\Codecool.Quest\obj\Debug\Codecool.Квест.MenuForm.resources
